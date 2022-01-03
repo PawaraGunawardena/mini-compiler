@@ -1,6 +1,7 @@
 SRC := \
 	lexer.c \
 	parser.c \
+	codegen.c \
 	main.c
 
 OBJ := $(SRC:%.c=%.o)
