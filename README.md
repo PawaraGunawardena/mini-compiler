@@ -1,5 +1,5 @@
-Compiler
-=========
+Mini - Compiler
+================
 
 GRAMMAR
 --------
