@@ -6,7 +6,7 @@ SRC := \
 
 OBJ := $(SRC:%.c=%.o)
 
-PRG := toy
+PRG := minicomp
 
 .PHONY: all clean
 
